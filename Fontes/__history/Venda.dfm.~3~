@@ -1,0 +1,49 @@
+object Form6: TForm6
+  Left = 0
+  Top = 0
+  Caption = 'Tela Venda'
+  ClientHeight = 305
+  ClientWidth = 553
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDesktopCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Button1Criar: TButton
+    Left = 88
+    Top = 16
+    Width = 89
+    Height = 41
+    Caption = 'Criar'
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 183
+    Top = 16
+    Width = 89
+    Height = 41
+    Caption = 'Pesquisar'
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Left = 278
+    Top = 16
+    Width = 89
+    Height = 41
+    Caption = 'Atualizar'
+    TabOrder = 2
+  end
+  object Button4Deletar: TButton
+    Left = 373
+    Top = 16
+    Width = 89
+    Height = 41
+    Caption = 'Deletar'
+    TabOrder = 3
+  end
+end

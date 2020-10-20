@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/17 18:43:44.000.535,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/10/17 18:57:05.000.218,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit2.dfm=S:\Projeto venda\Fontes\Login.dfm</Transaction>
+    <Transaction>2020/10/17 18:57:05.000.218,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit2.pas=S:\Projeto venda\Fontes\Login.pas</Transaction>
+    <Transaction>2020/10/17 18:57:12.000.971,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project3.dproj=S:\Projeto venda\Fontes\Login20.dproj</Transaction>
+    <Transaction>2020/10/17 19:21:16.000.276,=S:\Projeto venda\Fontes\Unit1.pas</Transaction>
+    <Transaction>2020/10/17 19:29:44.000.923,S:\Projeto venda\Fontes\Login2.pas=S:\Projeto venda\Fontes\Unit1.pas</Transaction>
+    <Transaction>2020/10/17 19:29:44.000.923,S:\Projeto venda\Fontes\Login2.dfm=S:\Projeto venda\Fontes\Unit1.dfm</Transaction>
+    <Transaction>2020/10/17 19:43:14.000.319,=S:\Projeto venda\Fontes\Unit3.pas</Transaction>
+    <Transaction>2020/10/17 22:01:59.000.201,=S:\Projeto venda\Fontes\Unit3.pas</Transaction>
+    <Transaction>2020/10/17 22:04:31.000.552,S:\Projeto venda\Fontes\Unit3.dfm=S:\Projeto venda\Fontes\TESTE.dfm</Transaction>
+    <Transaction>2020/10/17 22:04:31.000.552,S:\Projeto venda\Fontes\Unit3.pas=S:\Projeto venda\Fontes\TESTE.pas</Transaction>
+    <Transaction>2020/10/17 23:10:37.000.860,=S:\Projeto venda\Fontes\Unit4.pas</Transaction>
+    <Transaction>2020/10/17 23:11:03.000.491,S:\Projeto venda\Fontes\Unit4.pas=S:\Projeto venda\Fontes\TelaUsuario.pas</Transaction>
+    <Transaction>2020/10/17 23:11:03.000.491,S:\Projeto venda\Fontes\Unit4.dfm=S:\Projeto venda\Fontes\TelaUsuario.dfm</Transaction>
+    <Transaction>2020/10/17 23:11:49.000.434,=S:\Projeto venda\Fontes\Unit4.pas</Transaction>
+    <Transaction>2020/10/17 23:12:03.000.430,S:\Projeto venda\Fontes\Unit4.dfm=S:\Projeto venda\Fontes\TelaProduto.dfm</Transaction>
+    <Transaction>2020/10/17 23:12:03.000.430,S:\Projeto venda\Fontes\Unit4.pas=S:\Projeto venda\Fontes\TelaProduto.pas</Transaction>
+    <Transaction>2020/10/17 23:39:46.000.322,=S:\Projeto venda\Fontes\Unit4.pas</Transaction>
+    <Transaction>2020/10/17 23:41:54.000.199,S:\Projeto venda\Fontes\Unit4.pas=S:\Projeto venda\Fontes\Usuario.pas</Transaction>
+    <Transaction>2020/10/17 23:41:54.000.199,S:\Projeto venda\Fontes\Unit4.dfm=S:\Projeto venda\Fontes\Usuario.dfm</Transaction>
+    <Transaction>2020/10/17 23:44:17.000.985,=S:\Projeto venda\Fontes\Unit5.pas</Transaction>
+    <Transaction>2020/10/17 23:44:26.000.158,S:\Projeto venda\Fontes\Unit5.pas=S:\Projeto venda\Fontes\Produto.pas</Transaction>
+    <Transaction>2020/10/17 23:44:26.000.158,S:\Projeto venda\Fontes\Unit5.dfm=S:\Projeto venda\Fontes\Produto.dfm</Transaction>
+    <Transaction>2020/10/17 23:54:07.000.754,=S:\Projeto venda\Fontes\Unit6.pas</Transaction>
+    <Transaction>2020/10/17 23:54:17.000.491,S:\Projeto venda\Fontes\Unit6.pas=S:\Projeto venda\Fontes\Venda.pas</Transaction>
+    <Transaction>2020/10/17 23:54:17.000.491,S:\Projeto venda\Fontes\Unit6.dfm=S:\Projeto venda\Fontes\Venda.dfm</Transaction>
+    <Transaction>2020/10/18 17:37:19.000.248,=S:\Projeto venda\Fontes\Unit7.pas</Transaction>
+    <Transaction>2020/10/18 17:37:38.000.888,S:\Projeto venda\Fontes\Vendaparcelada.dfm=S:\Projeto venda\Fontes\Unit7.dfm</Transaction>
+    <Transaction>2020/10/18 17:37:38.000.888,S:\Projeto venda\Fontes\Vendaparcelada.pas=S:\Projeto venda\Fontes\Unit7.pas</Transaction>
+    <Transaction>2020/10/18 17:41:12.000.089,=S:\Projeto venda\Fontes\Unit8.pas</Transaction>
+    <Transaction>2020/10/18 17:42:11.000.322,S:\Projeto venda\Fontes\Unit8.pas=S:\Projeto venda\Fontes\Vendacartao.pas</Transaction>
+    <Transaction>2020/10/18 17:42:11.000.322,S:\Projeto venda\Fontes\Unit8.dfm=S:\Projeto venda\Fontes\Vendacartao.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

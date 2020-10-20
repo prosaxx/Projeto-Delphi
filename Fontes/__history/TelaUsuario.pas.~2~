@@ -1,0 +1,24 @@
+unit TelaUsuario;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs;
+
+type
+  TCadastro_usuario = class(TForm)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Cadastro_usuario: TCadastro_usuario;
+
+implementation
+
+{$R *.dfm}
+
+end.
