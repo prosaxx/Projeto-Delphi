@@ -101,6 +101,7 @@ object Form4: TForm4
     Height = 41
     Caption = 'Criar'
     TabOrder = 4
+    OnClick = Button1CriarClick
   end
   object Button2: TButton
     Left = 231

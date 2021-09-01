@@ -10,7 +10,12 @@ uses
   Usuario in 'Usuario.pas' {Form4},
   Produto in 'Produto.pas' {Form5},
   Venda in 'Venda.pas' {Form6},
-  Vendacartao in 'Vendacartao.pas' {Form7Vendacartao};
+  Vendacartao in 'Vendacartao.pas' {Form7Vendacartao},
+  conexaoSqlServer in 'conexaoSqlServer.pas' {Connection},
+  CadastroProdutoTelaSql in 'CadastroProdutoTelaSql.pas' {SqlProduto},
+  CadastroClienteTelaSql in 'CadastroClienteTelaSql.pas' {CadastroClienteSQL},
+  CadastroTelaVendas in 'CadastroTelaVendas.pas' {TelaCadastroVendasSql},
+  PesquisaCep in 'PesquisaCep.pas' {TelaPesquisaCep};
 
 {$R *.res}
 
@@ -25,5 +30,10 @@ begin
   Application.CreateForm(TForm7Vendacartao, Form7Vendacartao);
   Application.CreateForm(TForm4, Form4);
   Application.CreateForm(TForm5, Form5);
+  Application.CreateForm(TConnection, Connection);
+  Application.CreateForm(TSqlProduto, SqlProduto);
+  Application.CreateForm(TCadastroClienteSQL, CadastroClienteSQL);
+  Application.CreateForm(TTelaCadastroVendasSql, TelaCadastroVendasSql);
+  Application.CreateForm(TTelaPesquisaCep, TelaPesquisaCep);
   Application.Run;
 end.

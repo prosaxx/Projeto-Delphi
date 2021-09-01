@@ -26,6 +26,7 @@ type
     Label10: TLabel;
     Label11: TLabel;
     Label12: TLabel;
+    procedure Button1CriarClick(Sender: TObject);
   private
     { Private declarations }
   public
@@ -38,6 +39,11 @@ var
 implementation
 
 {$R *.dfm}
+       uses CadastroClienteTelaSql;
+procedure TForm3.Button1CriarClick(Sender: TObject);
+begin
+            CadastroClienteTelaSql.CadastroClienteSQL.ShowModal;
+end;
 
 end.
 =

@@ -4,16 +4,18 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls,
+  Vcl.Imaging.jpeg;
 
 type
   TForm2 = class(TForm)
-    Label1: TLabel;
-    Label2: TLabel;
     Button1: TButton;
     Button2: TButton;
     Edit1: TEdit;
     Edit2: TEdit;
+    Image1: TImage;
+    Usuário: TLabel;
+    Senha: TLabel;
     procedure Button1Click(Sender: TObject);
     procedure Button2Click(Sender: TObject);
   private
@@ -33,7 +35,7 @@ uses Login2;
 
 procedure TForm2.Button1Click(Sender: TObject);
 begin
- if ((Edit1.Text = 'admin')and (Edit2.Text='12345')) then
+ if ((Edit1.Text = 'admin')and (Edit2.Text='')) then
  begin
    form2.Hide;
    Form1.ShowModal;

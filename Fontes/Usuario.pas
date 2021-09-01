@@ -20,6 +20,7 @@ type
     Button2: TButton;
     Button3: TButton;
     Button4Deletar: TButton;
+    procedure Button1CriarClick(Sender: TObject);
 
 
 
@@ -36,5 +37,12 @@ var
 implementation
 
 {$R *.dfm}
+
+uses       conexaoSqlServer;
+
+procedure TForm4.Button1CriarClick(Sender: TObject);
+begin
+  conexaoSqlServer.Connection.ShowModal;
+end;
 
 end.

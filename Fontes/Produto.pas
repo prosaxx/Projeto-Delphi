@@ -16,6 +16,7 @@ type
     Button2: TButton;
     Button3: TButton;
     Button4Deletar: TButton;
+    procedure Button1CriarClick(Sender: TObject);
   private
     { Private declarations }
   public
@@ -28,5 +29,12 @@ var
 implementation
 
 {$R *.dfm}
+
+uses cadastroProdutoTelaSql;
+
+procedure TForm5.Button1CriarClick(Sender: TObject);
+begin
+    cadastroProdutoTelaSql.SqlProduto.ShowModal ;
+end;
 
 end.
